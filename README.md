@@ -55,6 +55,3 @@ O projeto tem foco em lógica de programação e aplicação de regras de negóc
 - Estruturas condicionais (`if / else`)
 - Operadores lógicos
 - Operações matemáticas
-
-# executar
-java Calculodecorrida
